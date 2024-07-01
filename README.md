@@ -25,7 +25,7 @@ The application allows users to browse a variety of food items, add them to thei
 - **HTTP Client**: Axios
 - **Payment Processing**: Stripe
 
-Food-delivery-app-frontend : https://food-delivery-frontend-yzf6.onrender.com/
-Food-delivery-app-admin_panel : https://food-delivery-admin-wu1e.onrender.com/add
-Food-delivery-app-backend : https://cloud.mongodb.com/v2/62e7f053a2f3635b39175fe4#/metrics/replicaSet/6681701203b0cc56781d6a9e/explorer/food-del/foods/find
-food-delivery-render-dashboard : https://dashboard.render.com/
+Food-delivery-app-frontend : https://food-delivery-frontend-yzf6.onrender.com/ <br/>
+Food-delivery-app-admin_panel : https://food-delivery-admin-wu1e.onrender.com/add <br/>
+Food-delivery-app-backend : https://cloud.mongodb.com/v2/62e7f053a2f3635b39175fe4#/metrics/replicaSet/6681701203b0cc56781d6a9e/explorer/food-del/foods/find  <br/>
+food-delivery-render-dashboard : https://dashboard.render.com/  <br/>
